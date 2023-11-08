@@ -1,0 +1,53 @@
+div .naslov {
+
+    color: rgb(255, 255, 255);
+    font-family:fantasy;
+    letter-spacing: 2px;
+
+}
+
+div .container {
+    width: 1400px;
+}
+
+.side2 {
+    margin: auto;
+    box-shadow: #333741;
+    background-image:linear-gradient(to left,rgb(25, 51, 94),rgb(255, 255, 255));
+    border: solid #333741;
+    border-right: none;
+    border-top: none;
+}
+
+.vecinaslov {
+background-image: url(../slike/21.jpg);
+background-position: center;
+background-repeat: no-repeat;
+
+}
+
+body {
+    background-image:linear-gradient(to left,rgb(25, 51, 94),rgb(255, 255, 255));
+}
+
+.pitanja {
+max-width: 1200px;
+margin: auto;
+border:solid #333741;
+border-left:none;
+border-bottom: none;
+background-image:linear-gradient(to left,rgb(25, 51, 94),rgb(255, 255, 255));
+}
+
+.druginaslov {
+    text-align: center;
+}
+
+
+
+.accordion-item {
+    background-image:linear-gradient(to left,rgb(25, 51, 94),rgb(255, 255, 255));
+    color: rgb(5, 44, 101);
+
+}
+
